@@ -1,0 +1,97 @@
+h1{
+    background-color: aqua;
+    border-radius: 2rem;
+
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+}
+li a{
+    background-color: rgb(9, 141, 6);
+    border: solid rgb(139, 143, 139);
+    border-radius: 2rem;
+}
+.inputform{
+    margin-top: 2rem;
+    
+   background-color: antiquewhite;
+   border-radius: 2rem;
+   margin-right: 10rem;
+   margin-left: 16rem;
+   padding-left: 15rem;
+   
+   
+}
+input{
+    display: flex;
+   
+}
+.btn{
+    margin-top: 2rem;
+   
+}
+ p{
+    padding-top:12px;
+    color: rgb(228, 6, 6);
+}
+img{
+    width: 50px;
+}
+.edit{
+    background-color: rgb(32, 214, 105);
+    border: solid rgb(45, 46, 45);
+    border-radius: 2rem;
+    text-decoration: none;
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-top: 4px;
+    padding-bottom: 5px;
+    
+    color: black;
+    margin-top: 5px;
+}
+.edit:hover{
+    color: rgb(251, 248, 251);
+}
+.delete{
+    background-color: rgb(226, 62, 62);
+    border: solid rgb(45, 46, 45);
+    border-radius: 2rem;
+    text-decoration: none;
+    padding: 5px;
+    color: black;
+    margin-top: 5px;
+}
+.delete:hover{
+    color: rgb(251, 248, 251);
+}
+table{
+    margin-top: 1rem;
+}
+h2{
+    text-align: center;
+    color: rgb(6, 6, 5);
+    border: solid 2px;
+    border-radius: 2rem;
+    margin-left: 25rem;
+    margin-right: 25rem;
+    
+    background-color: antiquewhite;
+}
+.head{
+    margin-top: 1rem;
+}
+.head_edit h2{
+    text-align: center;
+    color: rgb(6, 6, 5);
+    border: solid 2px;
+    border-radius: 2rem;
+    margin-left: 25rem;
+    margin-right: 25rem;
+    
+    background-color: rgb(106, 143, 94);
+}
+.head_edit{
+    margin-top: 2rem;
+}
